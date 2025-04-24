@@ -4,7 +4,7 @@
 
 ## Project info
 
-Projeto criado com objetivo de ser um portifólio pessoal, contando com sessão com projetos, especializações e certificações, artigos publicados, area para parceiros e contato profissional. 
+Project created with the aim of being a personal portfolio, with a section with projects, specializations and certifications, published articles, area for partners and professional contact.
 
 ## Preview
 
