@@ -4,11 +4,6 @@
 
 Projeto criado com objetivo de ser um portifólio pessoal, contando com sessão com projetos, especializações e certificações, artigos publicados, area para parceiros e contato profissional. 
 
-## Preview App
-
-![image](https://github.com/user-attachments/assets/8bebf240-e7f8-4f08-9cee-ea6c49dfa36b)
-
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
