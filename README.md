@@ -1,23 +1,14 @@
-<h1 align="center">
-   Portfolio Project - JeanMendanha ✅​
-</h1>
+# Welcome my site project
 
 ## Project info
 
-Project created with the aim of being a personal portfolio, with a section with projects, specializations and certifications, published articles, area for partners and professional contact.
+Projeto criado com objetivo de ser um portifólio pessoal, contando com sessão com projetos, especializações e certificações, artigos publicados, area para parceiros e contato profissional. 
 
-## Preview
+**Use your preferred IDE**
 
-![image](https://github.com/user-attachments/assets/21b237b4-de0a-4f37-9d28-db3093238f0f)
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## 🛠️ Languages ​​and Tools
-
-<div align="center">
-  <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-</div>
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Follow these steps:
 
@@ -49,26 +40,12 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## 📫 Contact and Networks
+## What technologies are used for this project?
 
-<div align="center">
-  <!-- <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
-  <a href="https://x.com/jeanmendanhaa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-   <!--<a href="https://dev.to/seu-usuario">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a> -->
-  <a href="mailto:contato@jeanmendanha.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/jeanmendanha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+This project is built with:
 
-
----
-
-Made with ♥ by JeanMendanhaJr 🤟🏽 [Get in touch!](mailto:contato@jeanmendanha.com)
-
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
