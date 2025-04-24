@@ -7,6 +7,9 @@
 Project created with the aim of being a personal portfolio, with a section with projects, specializations and certifications, published articles, area for partners and professional contact.
 
 ## Preview App
+![image](https://github.com/user-attachments/assets/44722892-c071-4df8-ac1e-813977c9a9b1)
+
+[Link do Site](https://site-jm-jeanmendanhajr-jean-mendanha-juniors-projects.vercel.app/)
 
 ## 🛠️ Languages ​​and Tools
 
